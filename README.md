@@ -24,4 +24,4 @@
 为加强对技术引进和投资项目的技术评估、完善投资项目技术评估体系，2019年8月，中化国际建立了技术评价“66 模型”，并依据该模型制定了引进项目技术评审制度和评审流程，以保障战略研发项目落地，积极培育增长新动能。
 [![cZs00O.png](https://z3.ax1x.com/2021/04/02/cZs00O.png)](https://imgtu.com/i/cZs00O)
 
-[OA后台登陆地址](https://intlemail.sinochem.com:4433/index.html)
+[OA后台登陆地址](https://intlmoa.sinochem.com/index.html)
